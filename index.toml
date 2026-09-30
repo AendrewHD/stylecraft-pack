@@ -2217,8 +2217,8 @@ hash = "6a656e3a0b7905e8e5b09af960b81d72f8bb5bd5526b2c90c44ba48bda0e52e1"
 metafile = true
 
 [[files]]
-file = "mods/ae2-virtual-gardens.pw.toml"
-hash = "9d20dc2a2a3f9916b38c2909f8eab0bedee0526bff02633b84d5ec3a28600079"
+file = "mods/ae2-virtual-garden.pw.toml"
+hash = "0df2606cf5a7381c6d743654e9cc78bf7255924d44c160171f3c550a76253ced"
 metafile = true
 
 [[files]]
@@ -3322,6 +3322,11 @@ hash = "c4fd809c57af751c60082a03a21fd2bf1106e89020926ba0cc0e6317e5ace4e8"
 metafile = true
 
 [[files]]
+file = "mods/ex-pattern-provider.pw.toml"
+hash = "e926d31a8a5e87d5f76945e4e42f01f61bbd99d064efddbc601ca7f065d8da87"
+metafile = true
+
+[[files]]
 file = "mods/expanded-delight.pw.toml"
 hash = "e0ad7cb6cf33d7958b7c9b7af321807190adf45ada89d65892fe2d437fe3024d"
 metafile = true
@@ -3334,11 +3339,6 @@ metafile = true
 [[files]]
 file = "mods/explorify.pw.toml"
 hash = "6adce6422e74091638dbd7872270ee58d9a22dc18340580f809cc50c739e0d4f"
-metafile = true
-
-[[files]]
-file = "mods/extended-ae.pw.toml"
-hash = "03494a76b42b1b79e4d36a93317b8e884cafdb7e08f6103ce47ecd4e4df57645"
 metafile = true
 
 [[files]]
