@@ -4639,8 +4639,13 @@ hash = "ef5725a80fad1f9ffe4715a36772e12bf1ca0415894016fc834b0014beba1455"
 metafile = true
 
 [[files]]
-file = "shaderpacks/truelightfx-lite-low-end.pw.toml"
-hash = "3f6b1ad729b1fca173d43f224a2f2a5659becd0732ed40cccb045a623b5ea4ce"
+file = "shaderpacks/truelight-fx-lite.pw.toml"
+hash = "3ebc258ece0c5213c401278f59b55cdac65065e6c6188f1b939146507dbb5efa"
+metafile = true
+
+[[files]]
+file = "shaderpacks/truelightfx.pw.toml"
+hash = "a49fe598c6c6917e09eae6e290f2cc8853f38232ab1fda951e766b870271b5ca"
 metafile = true
 
 [[files]]

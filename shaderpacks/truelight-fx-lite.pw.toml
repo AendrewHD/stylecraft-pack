@@ -1,0 +1,13 @@
+name = "TrueLightFX Lite"
+filename = "TrueLightFX Lite v5.6.3.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/2euhaJq5/versions/saNvbCw4/TrueLightFX%20Lite%20v5.6.3.zip"
+hash-format = "sha512"
+hash = "0e64210d5ac943ea1470c4e9d2a5b5090da65964ac94de56b7778d7bcbdcd32f75b304ac90456aeabf914f4b956bf95ebc57598ca168c768afb6b9a73922d45f"
+
+[update]
+[update.modrinth]
+mod-id = "2euhaJq5"
+version = "saNvbCw4"

@@ -1,0 +1,13 @@
+name = "TrueLightFX"
+filename = "TrueLightFX v5.1.2.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/1KNMo6Id/versions/3g0LXPS3/TrueLightFX%20v5.1.2.zip"
+hash-format = "sha512"
+hash = "a32f43bc6dea0636510078b3755d28259b1bff9c9db93b90a83b701bc50ac188a0b4bd98fd8b918d1c7582f339c9a698d55bd51be4155fd51173aec0b20c35dd"
+
+[update]
+[update.modrinth]
+mod-id = "1KNMo6Id"
+version = "3g0LXPS3"
