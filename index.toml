@@ -9,18 +9,6 @@ file = "config/Bluemap-Mapfrontiers.toml"
 hash = "f1a5817d4ace1e773d7edf0c6ca4d5e82a15f8a28c303b5ede155c6a48accde1"
 
 [[files]]
-file = "config/CSC/CSC_Warn.log"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "config/CSC/Data/variables.data"
-hash = "b036caba0e90f7e639a83602b93b3897894ae13d04a94d5696fde2a056927dff"
-
-[[files]]
-file = "config/CSC/Log/CSC_Record.log"
-hash = "7fec2acef423fc84af0156529ae68d89ced4149b9a7884685dcdf533215999c9"
-
-[[files]]
 file = "config/CSC/config.toml"
 hash = "1eb5861eaa2e197fd1c4f4b516d16955d389b0638e3b5577b82287949819c389"
 
@@ -129,10 +117,6 @@ file = "config/ali/ali_common.json"
 hash = "25bbc3a23e80dc4caf139970daf448bda8414958ec6e1a6c40c8ac7b763238b9"
 
 [[files]]
-file = "config/ali/ali_common.json.bak"
-hash = "90d340a2cfa18d99389b5f06092ee99287cc14b76aa254f71c155d52879d8309"
-
-[[files]]
 file = "config/almanac-common.toml"
 hash = "60804e0ec79a4117e82b9a4c8506077e916a5dc1a0f9bd7eebea977cce9b6a94"
 
@@ -155,10 +139,6 @@ hash = "37f013c49586db025c17f9fa6657c6f239e0169ebc97ef682ff114a2ede43c5e"
 [[files]]
 file = "config/almostunified/tags.json"
 hash = "2512b9c947342813ee667013941f07c3be8323ac4cb8d3d1686dd8530c7c66b1"
-
-[[files]]
-file = "config/almostunified/tags.json.bak"
-hash = "f1fcbf6f940f59b52a016e8a67f39ce1460480f8086acad011730d6055a056d6"
 
 [[files]]
 file = "config/almostunified/unification/materials.json"
@@ -1321,24 +1301,12 @@ file = "config/cristellib/create_ltab/structure_placement_config.json5"
 hash = "b081d83886b96d507dbb2d9e1a8def6265caf9e6c9081d51e3b097f281289941"
 
 [[files]]
-file = "config/cristellib/create_ltab/structure_toggle_config-had-error.json5"
-hash = "c57228ef46505251c0d1b9dfebe50a04a81eb507d48c3e7dacbf84f10a775b7d"
-
-[[files]]
 file = "config/cristellib/create_ltab/structure_toggle_config.json5"
 hash = "81c8a2867fb76024ac3100e64d7c26039372824efaf151473b7e6dac53fadce6"
 
 [[files]]
-file = "config/cristellib/create_structures_arise/structure_placement_config-had-error.json5"
-hash = "a735b288f0ff045b45b86031292907d99664c79e97a7fd253c7161a67a0d3fac"
-
-[[files]]
 file = "config/cristellib/create_structures_arise/structure_placement_config.json5"
 hash = "0503e3483abd99af26680f2a1b107d7c783d10c95bf4ec693d1ace5ba2d728ff"
-
-[[files]]
-file = "config/cristellib/create_structures_arise/structure_toggle_config-had-error.json5"
-hash = "04b546606ce3532e3cb6aa39936b3b00450f1c15410742aaca83bcc813d95da0"
 
 [[files]]
 file = "config/cristellib/create_structures_arise/structure_toggle_config.json5"
@@ -1467,10 +1435,6 @@ hash = "926483c59680492ff0bcf5a91f0232803cd455fb2a2ba9075053f2d4181593af"
 [[files]]
 file = "config/crittersandcompanions-common.json5"
 hash = "6c71ae8e49bbd1da8e98d86e218db5479e62a540cf44c4df49426e4d2b690209"
-
-[[files]]
-file = "config/crittersandcompanions-common.toml.old"
-hash = "aeeb856edf79e4bcd57772448f5aa1a3c6328c80ca6809efdd827382e9befa67"
 
 [[files]]
 file = "config/cucumber-common.toml"
@@ -1973,26 +1937,6 @@ file = "config/sound_physics_remastered/soundphysics.properties"
 hash = "4dc0cd90cecdb58ddf0c7341e594f3595369d61c147f2a5263e06ce3e2eae407"
 
 [[files]]
-file = "config/spark/activity.json"
-hash = "a051c1407ea4d86fdbae6e5c9551fb7b5575c75939f11b4d157d2e516c39a1f0"
-
-[[files]]
-file = "config/spark/config.json"
-hash = "992ba9f3a4a7ce3de112eb95575328956fdc3ce6781c455ebce7b23db7e7da42"
-
-[[files]]
-file = "config/spark/tmp-client/about.txt"
-hash = "8057ccf4540ea269b0fc332225859f44d8f3a55d891fa2e7a3447b6202658d2a"
-
-[[files]]
-file = "config/spark/tmp-client/spark-4d19d5ac6ddd8d-libasyncProfiler.so.tmp"
-hash = "63311a249bcd85288de44a98274525058f1215f812c02d1adef07e5eee96ad7a"
-
-[[files]]
-file = "config/spark/tmp-client/spark-4d7b30491e944d-profile-data.jfr.tmp"
-hash = "d15df9cd5b2317718ba3fbace1b726b91b0acf8154c9c6febea63f0b63708890"
-
-[[files]]
 file = "config/sparsestructures.json5"
 hash = "b62104002fc40622de4ee0030ce0c547b4bef429858ea16afe64544b71044596"
 
@@ -2061,10 +2005,6 @@ file = "config/the_bumblezone/general.toml"
 hash = "0970d89fc4e408ed0f8bdaaff77df5b486b5d5cee929a1ca5d9fdb7231796c8d"
 
 [[files]]
-file = "config/the_bumblezone/mod_compatibility-1.toml.bak"
-hash = "218925695e5db0654b018a60c684995241d9447fb92bbeea50b0d9ea62b8e2fe"
-
-[[files]]
 file = "config/the_bumblezone/mod_compatibility.toml"
 hash = "0c86d196efa1306eea31dc6312c372e70697963841c1c71368546eede6e50e44"
 
@@ -2113,16 +2053,8 @@ file = "config/unloadedactivity.json"
 hash = "f38c4212f24144a186259defbeae33aee99feb1bbaea2008c77cec62523f8197"
 
 [[files]]
-file = "config/vanilla_structures/placement_structure_config-had-error.json5"
-hash = "1f069468e438ae66f65ee41732603c895741b063add626a9e56ef7d0040ac4e6"
-
-[[files]]
 file = "config/vanilla_structures/placement_structure_config.json5"
 hash = "10fad560389f96ec7cb04966a0948b7fe5ba126559194fc81d7e53b8fd73c7ad"
-
-[[files]]
-file = "config/vanilla_structures/toggle_structure_config-had-error.json5"
-hash = "c4fb220488de3c1afc569f4b8a89d8e97f8b5504eeb59d9700b491f29718d2f9"
 
 [[files]]
 file = "config/vanilla_structures/toggle_structure_config.json5"

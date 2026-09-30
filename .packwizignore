@@ -11,3 +11,11 @@ convert-to-packwiz.ps1
 convert-report.txt
 README.md
 CHANGELOG.md
+*.bak
+*.old
+*.log
+*.tmp
+*-had-error.json5
+config/CSC/Data/
+config/CSC/Log/
+config/spark/
