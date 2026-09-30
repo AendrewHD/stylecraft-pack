@@ -2438,7 +2438,7 @@ metafile = true
 
 [[files]]
 file = "mods/bluemap-aeronautics.pw.toml"
-hash = "a42ab014d45f90c8e49ffd2e381d480c9b7bf5fb5b58b04e91077ef8517c3ab7"
+hash = "ba3271c170b21bfaed07434be2d6b0223340ae638f5c206e40f5e27b8511eb82"
 metafile = true
 
 [[files]]
@@ -2448,7 +2448,7 @@ metafile = true
 
 [[files]]
 file = "mods/bluemap3d.pw.toml"
-hash = "055c8e60bb33c1c7c10bd3527db2aad592233db00949ab6f8a25f0d18d14fd8f"
+hash = "dde2bc07b3677bb761d7c6e48403131dec77c5bb3b8fc0ac86c1ada921eceda2"
 metafile = true
 
 [[files]]

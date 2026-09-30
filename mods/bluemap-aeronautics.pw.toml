@@ -1,6 +1,6 @@
 name = "BlueMap: Aeronautics"
 filename = "bluemap3d_sable-1.21.1-1.0.0.jar"
-side = "both"
+side = "server"
 
 [download]
 hash-format = "sha1"
