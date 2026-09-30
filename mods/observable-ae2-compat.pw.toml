@@ -1,0 +1,13 @@
+name = "Observable AE2 Compat"
+filename = "observableae2compat-1.21.1-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1c6a883b08cb567359c0197e502574eb209f4c00"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8923230
+project-id = 1700986

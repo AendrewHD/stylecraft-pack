@@ -1,0 +1,13 @@
+name = "Nature X"
+filename = "Nature X - 12.2 [1.21.1].zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/8d8M3Qoz/versions/L1fTfVef/Nature%20X%20-%2012.2%20%5B1.21.1%5D.zip"
+hash-format = "sha512"
+hash = "3ec135859c5cbb824e8ae51a226088b91d41fe63ea3eb86c7558e32635ae52282d9cf3a43265d909690b4b7cc78aa69cfe94b94170f561072b4708b0a15971f3"
+
+[update]
+[update.modrinth]
+mod-id = "8d8M3Qoz"
+version = "L1fTfVef"

@@ -1,0 +1,13 @@
+name = "Re-Applied"
+filename = "ReApplied.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ExYShKjJ/versions/kG0JM8dm/ReApplied.zip"
+hash-format = "sha512"
+hash = "0eacc376d21f83c9e0277980340c9959290651121e5ef77dfdfc8c9f28621b78a1f2c0cf98ad85f1d03f4b68ed9dcfc57871f5db7743d076e2d519ae18c4ee7d"
+
+[update]
+[update.modrinth]
+mod-id = "ExYShKjJ"
+version = "kG0JM8dm"

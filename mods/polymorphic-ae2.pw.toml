@@ -1,0 +1,13 @@
+name = "Polymorphic AE2"
+filename = "polymorphic_ae2-1.21.1-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "99844d8e81c8373704aa6136e8ec700122198e8c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8742325
+project-id = 1666854

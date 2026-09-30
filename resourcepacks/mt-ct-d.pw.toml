@@ -1,0 +1,13 @@
+name = "Midnighttigger's Default Connected Textures"
+filename = "Midnighttigger's Default Connected Textures.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/TjOXlt9Y/versions/UPBKvt5T/Midnighttigger%27s%20Default%20Connected%20Textures.zip"
+hash-format = "sha512"
+hash = "ad43b77f10a58a838e6ba2e6fd8a190f3eba823df991d8c475192b5c77ffe76abb314c008fad1d92fc8d9dc2b23b20cd0c96331787b1e63d6ab61f0249386b11"
+
+[update]
+[update.modrinth]
+mod-id = "TjOXlt9Y"
+version = "UPBKvt5T"

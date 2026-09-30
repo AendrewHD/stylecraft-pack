@@ -1,0 +1,13 @@
+name = "Cogwheel"
+filename = "cogwheel-0.5.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0e74dfb219ab2229c8e63a49de117d67db7c2257"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8140117
+project-id = 1552207

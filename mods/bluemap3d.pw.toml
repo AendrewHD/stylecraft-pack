@@ -1,0 +1,13 @@
+name = "BlueMap3D"
+filename = "bluemap3d-1.21.1-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3974b7a1ed95fc812b095b4c01b71cfe15b34a80"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8825617
+project-id = 1685144

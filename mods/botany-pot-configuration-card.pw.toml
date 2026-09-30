@@ -1,0 +1,13 @@
+name = "Botany Pot Configuration Card"
+filename = "botanypotconfigurationcard-1.21.1-2.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f18867b564748a330ad3b8677493ce638b695287"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7587904
+project-id = 1452994

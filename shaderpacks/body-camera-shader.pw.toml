@@ -1,0 +1,13 @@
+name = "Body Camera"
+filename = "Body Camera Shader - V1.6.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/by2i3tnt/versions/8XmNiuNn/Body%20Camera%20Shader%20-%20V1.6.1.zip"
+hash-format = "sha512"
+hash = "3ecb7c1ca100951bb07b553425a6291bc103015f83fb201b692b1e840635630804c023209ce361f283e8683410c956fdc00d17d1cef8a7724b7f1e6f4f0fe146"
+
+[update]
+[update.modrinth]
+mod-id = "by2i3tnt"
+version = "8XmNiuNn"

@@ -1,0 +1,13 @@
+name = "BlueMap: Aeronautics"
+filename = "bluemap3d_sable-1.21.1-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6d61b8686f1ff5a98b806080217c61d59c471ec8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8825660
+project-id = 1685147

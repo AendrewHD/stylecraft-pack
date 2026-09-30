@@ -1,0 +1,13 @@
+name = "ARTShade"
+filename = "ARTShade V0.4B.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/iZBu2k8u/versions/oxYrc10F/ARTShade%20V0.4B.zip"
+hash-format = "sha512"
+hash = "ad96f64d795696d6446a2b13b8a23b51967e13bdadc3a45f3ed8679bd965e16d31256af3dfa0ab7cc7ee5dbd8bd2a50b0e4692c449e2a8ef58de6571c9b8837c"
+
+[update]
+[update.modrinth]
+mod-id = "iZBu2k8u"
+version = "oxYrc10F"

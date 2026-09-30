@@ -1,0 +1,13 @@
+name = "AE2 Pattern Restocker"
+filename = "ae2_pattern_restocker-neoforge-21.1-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6500024f8257809f3cee5ee8b8c968cb9d673fc4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8121305
+project-id = 1545188

@@ -1,0 +1,8 @@
+name = "AE2 Virtual Gardens"
+filename = "ae2virtualgarden-1.1.9.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GeneraBlack/AE2VirtualGarden/releases/download/v1.1.9/ae2virtualgarden-1.1.9.jar"
+hash-format = "sha256"
+hash = "a5fe776229ba91a3f98c390f9b65935e19eeae04adf4f845f8a11e1cb64e97b0"

@@ -1,0 +1,13 @@
+name = "Connected Textures (CTM) Overhaul"
+filename = "CTM-Overhaul-V_6.0-Pre1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/S1rcrDD7/versions/x7nkmGUO/CTM-Overhaul-V_6.0-Pre1.zip"
+hash-format = "sha512"
+hash = "5b3c37af66c89202e2001f874c192078f4c24bfd403648912dabc96bdaa9863b1f48f44d9ab18cb508bd55a99e93433437caa08168ed331e3cd1e766bce01fb1"
+
+[update]
+[update.modrinth]
+mod-id = "S1rcrDD7"
+version = "x7nkmGUO"

@@ -1,0 +1,13 @@
+name = "Vanilla Mashup (PBR)"
+filename = "Vanilla Mashup 1.4.1b.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/leIFWh7a/versions/BB2pLooJ/Vanilla%20Mashup%201.4.1b.zip"
+hash-format = "sha512"
+hash = "d21f1437be599ee5285ce4dc50a4b7b6c3c7d786d5912f9eb696fdeb4da38132b35bdb24b65dcdbd35ff6630d32eedb145fefb35869bd64287874a744d28a849"
+
+[update]
+[update.modrinth]
+mod-id = "leIFWh7a"
+version = "BB2pLooJ"

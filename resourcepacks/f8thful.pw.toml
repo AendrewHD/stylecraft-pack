@@ -1,0 +1,13 @@
+name = "F8thful"
+filename = "F8thful.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZrW0og1b/versions/QCxNma2Y/F8thful.zip"
+hash-format = "sha512"
+hash = "acdcaa5a49af826f26ddaa5afd042e43fdb699edbd7cab62a1edfc16d26ac80f30c3bd33207b2105609ec975ad9340f0949fc25cb4b3bf2b6155c18b972f6b3b"
+
+[update]
+[update.modrinth]
+mod-id = "ZrW0og1b"
+version = "QCxNma2Y"

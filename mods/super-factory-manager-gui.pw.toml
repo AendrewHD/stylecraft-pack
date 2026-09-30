@@ -1,0 +1,13 @@
+name = "Super Factory Manager GUI"
+filename = "sfmgui-1.21.1-1.0.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f74053dec9bc328d614fdb6d503a6138bdf35f4d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8399138
+project-id = 1600512

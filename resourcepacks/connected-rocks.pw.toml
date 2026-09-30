@@ -1,0 +1,13 @@
+name = "Connected Rocks"
+filename = "Connected-Rocks 1.20.2-1.21.8 v3.1.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/IE9kFeq9/versions/eqSCPMGF/Connected-Rocks%201.20.2-1.21.8%20v3.1.1.zip"
+hash-format = "sha512"
+hash = "d3fa7d811eae753797b9db3f7c104f7752680021b29eafe7cf1b9ed04a8d5511b8b9d697477839f67f0805776cd6fdb403adef0cbdd99228919032276e324b0f"
+
+[update]
+[update.modrinth]
+mod-id = "IE9kFeq9"
+version = "eqSCPMGF"

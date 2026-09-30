@@ -1,0 +1,13 @@
+name = "Applied Sorting"
+filename = "appliedsorting-1.21.1-neoforge-v2.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dd0a3d5c283bfcba9c812fc2c59eb51075c4cbe5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8917748
+project-id = 1337766
