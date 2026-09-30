@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "yourmod:cedar_wood",
+      "required": false
+    },
+    {
+      "id": "yourmod:redwood_wood",
+      "required": false
+    },
+    {
+      "id": "minecraft:pale_oak_wood",
+      "required": false
+    }
+  ]
+}

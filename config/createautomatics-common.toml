@@ -1,0 +1,7 @@
+[controller]
+	#Maximum RPM selectable on the Automatics Controller.
+	#The Controller configurator and the real wheel speed both use this limit.
+	#Allowed range: 1-256.
+	# Default: 256
+	# Range: 1 ~ 256
+	maxRpm = 256

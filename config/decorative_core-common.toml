@@ -1,0 +1,15 @@
+[storage]
+	#Base storage capacity (no upgrades). Default: 256
+	# Default: 256
+	# Range: 1 ~ 1000000
+	baseCapacity = 256
+	#Capacity multiplier for all storages. Default: 1.0
+	# Default: 1.0
+	# Range: 0.1 ~ 100.0
+	capacityMultiplier = 1.0
+	#Max upgrade tier allowed. 0..4. Default: 4
+	# Default: 4
+	# Range: 0 ~ 4
+	maxUpgradeTier = 4
+	#Enable capacity upgrades (iron/gold/diamond/netherite). Default: true
+	enableUpgrades = true

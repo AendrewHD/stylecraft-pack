@@ -1,0 +1,8 @@
+#Volume of the alarm sound (0.0 - 1.0)
+# Default: 1.0
+# Range: 0.0 ~ 1.0
+alarmVolume = 1.0
+#Detection radius (in blocks) of the smoke detector. Fire within this radius will trigger the alarm and emit a redstone signal.
+# Default: 10
+# Range: 1 ~ 32
+smokeDetectorRadius = 10

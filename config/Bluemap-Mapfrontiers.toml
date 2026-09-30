@@ -1,0 +1,26 @@
+# Configuration of the Bluemap-Mapfrontiers mod
+[general]
+  # Marker set name
+  markerSet = "MapFrontiers"
+  # Render type to use
+  # FLAT: Render all regions in a flat plane.
+  # VOLUME: Render all regions as volumes
+  renderType = "FLAT"
+  # Alpha-Value of the infill. 0-1
+  infillAlpha = 0.24
+  # Alpha-Value of the outer lines. 0-1
+  lineAlpha = 0.874
+  # Should the regions always be visible through blocks?
+  alwaysOnTop = true
+  # Interval in seconds to update the marker-set
+  updateInterval = 5
+# Configuration of the Bluemap-Mapfrontiers mod
+[flatMode]
+  # Y level of the markers
+  yLevel = 64.0
+# Configuration of the Bluemap-Mapfrontiers mod
+[volumeMode]
+  # Bottom Y level of the markers
+  minY = -64.0
+  # Top Y level of the markers
+  maxY = 320.0

@@ -1,0 +1,35 @@
+# ============================================================
+#   Client Settings
+# ============================================================
+
+# ------------------------------------------------------------
+#   Audio Settings
+# ------------------------------------------------------------
+
+# Blends directional and non-directional audio. 1.0 = fully directional, 0.0 = fully non-directional
+spatialityThreshold = 0.1
+
+# Controls stereo rendering for audio played directly to the player (e.g. Blockman Player).
+staticStereoMode = DIRECT_STEREO
+
+# Controls stereo rendering for audio with in-world spatial presence (e.g. Boombox, Radio, Speaker).
+spatialStereoMode = VIRTUAL_SPATIAL
+
+# Separation distance in blocks between left and right virtual speakers.
+stereoSpeakerWidth = 2.0
+
+# Controls master volume for all audio streams.
+globalVolume = 1.0
+
+# How long in seconds a should stream stay in standby mode before it is destroyed. Longer timeouts mean streams will stay 'cached' longer for quicker playback, but at the cost of system resources to keep the stream alive.
+streamInactivityTimeoutSeconds = 90
+
+# Controls whether multiple sources broadcasting identical audio streams play simultaneously or collapse to the single closest source to the player.
+streamOverlap = false
+
+# Tolerance window in ticks for identifying whether multiple emitters are part of the same broadcast session.
+transmissionMergeThresholdTicks = 100
+
+# Disables the welcome screen prompting you to install audio dependencies. Highly recommended you don't disable this unless you know what you're doing.
+dependencyWelcomeScreen = true
+

@@ -1,0 +1,53 @@
+[
+  {
+    "user": {
+      "type": "other",
+      "name": "Server"
+    },
+    "time": 1790773888260,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/0VnEDwOWhf"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "AendrewHD",
+      "uniqueId": "1a0b7053-8d20-4c41-8d39-ee90a39edf1b"
+    },
+    "time": 1790634546059,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/BWJ8JmpUE8"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "AendrewHD",
+      "uniqueId": "1a0b7053-8d20-4c41-8d39-ee90a39edf1b"
+    },
+    "time": 1790541654024,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/sl77FM2pdz"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "AendrewHD",
+      "uniqueId": "1a0b7053-8d20-4c41-8d39-ee90a39edf1b"
+    },
+    "time": 1790540768162,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/0II8Vxtc8P"
+    }
+  }
+]

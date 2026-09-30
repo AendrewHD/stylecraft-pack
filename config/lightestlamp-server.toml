@@ -1,0 +1,32 @@
+#Resources settings
+[resources]
+	#Gas Centrifuge Glowstone fuel multiplier (Bigger multiplier less fuel used) Min: 2, Max: 20, IntValue
+	# Default: 4
+	# Range: 2 ~ 20
+	glowstone_multiplier = 4
+
+#Tweaks
+[tweaks]
+	#Energy mode of Gas Centrifuge machine.
+	#(passive_only) => Allow only passive mode, machine doesn't require energy and remove passive mode speed penalty. Good for Vanilla+ modpacks.
+	#(both) => (Default) Allow passive, normal and overclock mode. Passive mode speed penalty enabled. Not recommended.
+	#(energy_only) => Disable passive mode and allow normal and overclocked mode. Good for modpacks containing tech mods.
+	#(no_overclocking) => Disable overclocking. Only mode enabled is normal mode.
+	#(no_overclocking_with_passive) => Allow normal and passive mode. Passive mode speed penalty is still enabled.
+	#Allowed Values: passive_only, both, energy_only, no_overclocking, no_overclocking_with_passive
+	energy_mode = "both"
+
+#Extended lamp lighting scheduler
+[lighting]
+	#Maximum source-planning positions visited across all dimensions per server tick.
+	# Default: 4096
+	# Range: 256 ~ 65536
+	max_traversed_positions_per_tick = 4096
+	#Maximum hidden light-source block changes across all dimensions per server tick.
+	# Default: 128
+	# Range: 16 ~ 4096
+	max_source_updates_per_tick = 128
+	#Ticks used to combine repeated wall, fluid, piston, and door updates.
+	# Default: 5
+	# Range: 1 ~ 100
+	topology_debounce_ticks = 5

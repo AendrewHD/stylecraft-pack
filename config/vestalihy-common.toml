@@ -1,0 +1,9 @@
+[cooldowns]
+	#Cooldown for Tubus KD in seconds
+	# Default: 180
+	# Range: 1 ~ 36000
+	tubusKdCooldownSeconds = 180
+	#Cooldown for Tubus TOW KD in seconds
+	# Default: 180
+	# Range: 1 ~ 36000
+	tubusTowKdCooldownSeconds = 180

@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "yourmod:cedar_leaves",
+      "required": false
+    },
+    {
+      "id": "yourmod:redwood_leaves",
+      "required": false
+    },
+    {
+      "id": "minecraft:pale_oak_leaves",
+      "required": false
+    }
+  ]
+}

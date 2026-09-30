@@ -1,0 +1,67 @@
+[general]
+	#Enable debug logging and debug chat messages
+	debugMode = false
+
+[cache]
+	#AE network cache TTL in milliseconds (100-60000)
+	# Default: 5000
+	# Range: 100 ~ 60000
+	cacheTTLMs = 5000
+	#Negative cache (item not found) TTL in milliseconds (100-120000)
+	# Default: 10000
+	# Range: 100 ~ 120000
+	negativeCacheTTLMs = 10000
+	#Hover debounce time in milliseconds (50-5000)
+	# Default: 250
+	# Range: 50 ~ 5000
+	debounceMs = 250
+	#Batch query flush interval in milliseconds (200-10000). How often pending AE queries are batched and sent to the server.
+	# Default: 5000
+	# Range: 200 ~ 10000
+	batchFlushMs = 5000
+
+[emi_ui]
+	#Enable wrap processing pattern output as written book (WB mode)
+	enableWrapBook = false
+	#When wrap book is enabled, also place the original output item into an empty input slot
+	wbFillInputGrid = false
+	enableDragFill = true
+	#When encoding processing patterns via EMI recipe transfer, prioritize items from the EMI favorites bar over network-inventory-selected items
+	bookmarkPriority = true
+	#Minimum number of EMI favorites pages kept available
+	# Default: 5
+	# Range: 1 ~ 50
+	favoritePageCount = 5
+
+[ae_network]
+	#Read AE network stored and craftable item counts for EMI tooltips, badges, and quick craft
+	enableAeNetworkLookup = true
+	#Show AE network status corner badges on EMI item icons (green=in stock, yellow=craftable only)
+	enableNetworkBadges = false
+	#Badge rendering style when network badges are enabled: 1 = bottom-right 6x6 filled square, 2 = top-left 6x6 hollow border
+	# Default: 1
+	# Range: 1 ~ 2
+	networkBadgeStyle = 1
+	#Modifier for Click-to-extract from AE/BD network. SHIFT=Shift+Click, CONTROL=Ctrl+Click, ALT=Alt+Click, or OFF to disable
+	#Allowed Values: SHIFT, CONTROL, ALT, OFF
+	extractModifier = "SHIFT"
+	#Click on the EMI sidebar with a carried item to deposit into AE. Requires a wireless terminal or an open AE2 terminal.
+	enableAeDeposit = true
+	#Allowed Values: SHIFT, CONTROL, ALT, OFF
+	depositBatchModifier = "SHIFT"
+
+[quick_craft]
+	enableQuickCraftTab = true
+	#Allowed Values: SHIFT, CONTROL, ALT, OFF
+	quickCraftModifier = "SHIFT"
+	quickCraftKey = "C"
+
+[inventory]
+	#Enable Space+Click bulk transfer for regular containers (non-AE, non-BD). Disable if it conflicts with other mods' Space+Click handlers.
+	enableBulkTransfer = true
+	#Enable Ctrl+Shift+Drop to discard all stacks matching the hovered slot item
+	enableDiscardMatchingKey = true
+
+[debug]
+	#Limit debug-related packets to 1 per tick to prevent congestion
+	enableDebugPacketLimit = true

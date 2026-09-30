@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "yourmod:stripped_cedar_log",
+      "required": false
+    },
+    {
+      "id": "yourmod:stripped_redwood_log",
+      "required": false
+    },
+    {
+      "id": "minecraft:stripped_pale_oak_log",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "cache": {
+    "rpg_series:loot_tier/tier_1_accessories": [
+      "jewelry:diamond_ring",
+      "jewelry:emerald_necklace",
+      "jewelry:diamond_necklace"
+    ],
+    "rpg_series:archetype/healing_weapon": [],
+    "rpg_series:loot_tier/tier_4_armors": [],
+    "rpg_series:loot_tier/tier_5_armors": [],
+    "rpg_series:loot_tier/tier_3_armors": [],
+    "rpg_series:loot_tier/tier_0_accessories": [
+      "jewelry:iron_ring",
+      "jewelry:gold_ring",
+      "jewelry:copper_ring"
+    ],
+    "rpg_series:loot_reference/tier_3_treasures": [
+      "minecraft:totem_of_undying",
+      "minecraft:netherite_ingot",
+      "minecraft:netherite_scrap",
+      "minecraft:nether_star",
+      "minecraft:elytra"
+    ],
+    "rpg_series:loot_tier/tier_1_armors": [],
+    "rpg_series:loot_tier/tier_1_weapons": [],
+    "rpg_series:archetype/ranged_damage_weapon": [],
+    "rpg_series:loot_tier/tier_2_armors": [],
+    "rpg_series:loot_tier/tier_0_weapons": [],
+    "rpg_series:archetype/defense_weapon": [],
+    "rpg_series:loot_tier/tier_2_accessories": [
+      "jewelry:ruby_necklace",
+      "jewelry:citrine_necklace",
+      "jewelry:jade_necklace",
+      "jewelry:tanzanite_ring",
+      "jewelry:sapphire_necklace",
+      "jewelry:topaz_necklace",
+      "jewelry:citrine_ring",
+      "jewelry:sapphire_ring",
+      "jewelry:tanzanite_necklace",
+      "jewelry:ruby_ring",
+      "jewelry:topaz_ring",
+      "jewelry:jade_ring"
+    ],
+    "rpg_series:loot_tier/tier_4_accessories": [
+      "jewelry:unique_arcane_ring",
+      "jewelry:unique_healing_ring",
+      "jewelry:unique_crit_necklace",
+      "jewelry:unique_attack_necklace",
+      "jewelry:unique_arcane_necklace",
+      "jewelry:unique_spell_ring",
+      "jewelry:unique_tank_necklace",
+      "jewelry:unique_crit_ring",
+      "jewelry:unique_archer_ring",
+      "jewelry:unique_dex_necklace",
+      "jewelry:unique_fire_necklace",
+      "jewelry:unique_healing_necklace",
+      "jewelry:unique_attack_ring",
+      "jewelry:unique_frost_necklace",
+      "jewelry:unique_fire_ring",
+      "jewelry:unique_archer_necklace",
+      "jewelry:unique_spell_necklace",
+      "jewelry:unique_frost_ring",
+      "jewelry:unique_tank_ring",
+      "jewelry:unique_dex_ring"
+    ],
+    "rpg_series:loot_tier/tier_3_accessories": [
+      "jewelry:netherite_jade_ring",
+      "jewelry:netherite_sapphire_necklace",
+      "jewelry:netherite_tanzanite_ring",
+      "jewelry:netherite_jade_necklace",
+      "jewelry:netherite_citrine_necklace",
+      "jewelry:netherite_topaz_ring",
+      "jewelry:netherite_citrine_ring",
+      "jewelry:netherite_tanzanite_necklace",
+      "jewelry:netherite_ruby_ring",
+      "jewelry:netherite_ruby_necklace",
+      "jewelry:netherite_topaz_necklace",
+      "jewelry:netherite_sapphire_ring"
+    ],
+    "rpg_series:loot_reference/tier_0_armors": [
+      "minecraft:leather_helmet",
+      "minecraft:leather_chestplate",
+      "minecraft:leather_leggings",
+      "minecraft:leather_boots",
+      "minecraft:golden_helmet",
+      "minecraft:golden_chestplate",
+      "minecraft:golden_leggings",
+      "minecraft:golden_boots"
+    ],
+    "rpg_series:archetype/melee_damage_weapon": [],
+    "rpg_series:archetype/magic_damage_weapon": [],
+    "rpg_series:loot_reference/tier_1_armors": [
+      "minecraft:iron_helmet",
+      "minecraft:iron_chestplate",
+      "minecraft:iron_leggings",
+      "minecraft:iron_boots",
+      "minecraft:chainmail_helmet",
+      "minecraft:chainmail_chestplate",
+      "minecraft:chainmail_leggings",
+      "minecraft:chainmail_boots",
+      "minecraft:turtle_helmet"
+    ],
+    "rpg_series:loot_reference/tier_2_armors": [
+      "minecraft:diamond_helmet",
+      "minecraft:diamond_chestplate",
+      "minecraft:diamond_leggings",
+      "minecraft:diamond_boots"
+    ],
+    "rpg_series:loot_reference/tier_3_weapons": [
+      "minecraft:netherite_sword",
+      "minecraft:netherite_axe",
+      "minecraft:mace"
+    ],
+    "rpg_series:loot_reference/tier_2_treasures": [
+      "minecraft:diamond",
+      "minecraft:heart_of_the_sea",
+      "minecraft:enchanted_golden_apple",
+      "minecraft:diamond_horse_armor",
+      "minecraft:music_disc_13",
+      "minecraft:music_disc_cat",
+      "minecraft:music_disc_otherside",
+      "minecraft:music_disc_pigstep",
+      "minecraft:music_disc_relic",
+      "minecraft:music_disc_5"
+    ],
+    "rpg_series:loot_theme/aether": [],
+    "rpg_series:loot_reference/tier_1_weapons": [
+      "minecraft:iron_sword",
+      "minecraft:iron_axe",
+      "minecraft:bow",
+      "minecraft:crossbow"
+    ],
+    "rpg_series:loot_reference/tier_2_weapons": [
+      "minecraft:diamond_sword",
+      "minecraft:diamond_axe",
+      "minecraft:trident"
+    ],
+    "rpg_series:loot_theme/dragon": [],
+    "rpg_series:loot_reference/golden_weapons": [
+      "minecraft:golden_sword",
+      "minecraft:golden_axe"
+    ],
+    "rpg_series:loot_tier/tier_1_relics": [],
+    "rpg_series:loot_tier/tier_2_weapons": [],
+    "rpg_series:loot_tier/tier_3_weapons": [],
+    "rpg_series:loot_reference/tier_0_weapons": [
+      "minecraft:wooden_sword",
+      "minecraft:wooden_axe",
+      "minecraft:stone_sword",
+      "minecraft:stone_axe"
+    ],
+    "rpg_series:loot_tier/tier_4_weapons": [],
+    "rpg_series:loot_theme/golden_weapon": [],
+    "rpg_series:loot_reference/tier_3_armors": [
+      "minecraft:netherite_helmet",
+      "minecraft:netherite_chestplate",
+      "minecraft:netherite_leggings",
+      "minecraft:netherite_boots"
+    ],
+    "rpg_series:loot_tier/tier_3_relics": [],
+    "rpg_series:loot_reference/tier_1_treasures": [
+      "minecraft:emerald",
+      "minecraft:enchanted_book",
+      "minecraft:golden_apple"
+    ],
+    "rpg_series:loot_tier/tier_5_weapons": [],
+    "rpg_series:loot_tier/tier_2_relics": [],
+    "rpg_series:loot_tier/tier_4_relics": []
+  }
+}

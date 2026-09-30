@@ -1,0 +1,748 @@
+// ### THE MOD REQUIRES A RESTART OF THE GAME TO APPLY CHANGES ###
+{
+  // this is the main spread factor (default is 2)
+  //
+  // tips: a spread factor can be a decimal number (such as 1.5)
+  //       a spread factor of 1 means all structure's placements are not modified (useful if you want to use only custom spread factors)
+  //       a spread factor above 1 means all structures are rarer
+  //       a spread factor below 1 means all structures are more common
+  //       a spread factor of 0 disables all structures entirely
+  "spreadFactor": 2.5,
+
+  // Some structure mods/datapacks do not specify a custom salt or use the same salt for all their structures, which might cause structure overlap.
+  // Enabling this is supposed to reduce this phenomenon, as all structure sets will have their own salt, hashed from their id.
+  // If unsure, leave this enabled.
+  "idBasedSalt": true,
+
+  // this is a list of custom spread factors
+  "customSpreadFactors": [
+    // example of the mansion being doubled in rarity (the mod's default)
+    // {
+    //   "structure": "additionalstructures:big_dungeons",
+    //   "factor": 1
+    // },
+    {
+      "structure": "additionalstructures:boats",
+      "factor": 0.75
+    },
+    // {
+    //   "structure": "additionalstructures:bushes",
+    //   "factor": 1
+    // },
+    {
+      "structure": "additionalstructures:camps",
+      "factor": 0.5
+    },
+    // {
+    //   "structure": "additionalstructures:dead_trees",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "additionalstructures:dragon_fossils",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "additionalstructures:dungeon-spawners",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "additionalstructures:end_buildings",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "additionalstructures:end_crystals",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "additionalstructures:flotsam",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "additionalstructures:fossils",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "additionalstructures:ice_floes",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "additionalstructures:illager_houses",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "additionalstructures:meteor",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "additionalstructures:mushroom_houses",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "additionalstructures:nether_buildings",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "additionalstructures:oasis",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "additionalstructures:obsidian_structures",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "additionalstructures:pillars",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "additionalstructures:portals",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "additionalstructures:pyramids",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "additionalstructures:rocks",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "additionalstructures:ruins",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "additionalstructures:scarecrows",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "additionalstructures:shulker_cluster",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "additionalstructures:silverfish_cluster",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "additionalstructures:skulls",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "additionalstructures:snow_piles",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "additionalstructures:snowmen",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "additionalstructures:spawn_altars",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "additionalstructures:sphinx",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "additionalstructures:spider_nests",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "additionalstructures:statues",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "additionalstructures:stone_circles",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "additionalstructures:suspicious_patches",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "additionalstructures:temples",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "additionalstructures:tombs",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "additionalstructures:totems",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "additionalstructures:towers",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "additionalstructures:trees",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "additionalstructures:underground_bases",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "additionalstructures:underground_structures",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "additionalstructures:villager_structures",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "additionalstructures:wall_ruins",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "additionalstructures:wells",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "aether:bronze_dungeon",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "aether:large_aercloud",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "aether:silver_and_gold_dungeons",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "betterarcheology:archeology_sites",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "betterarcheology:fossil_sites",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "betterarcheology:underwater_ruins",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "betterdeserttemples:desert_temples",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "betterdungeons:skeleton_dungeons",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "betterdungeons:small_dungeons",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "betterdungeons:small_nether_dungeons",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "betterdungeons:spider_dungeons",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "betterdungeons:zombie_dungeons",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "betterfortresses:fortress",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "betterjungletemples:jungle_temples",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "betteroceanmonuments:ocean_monument",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "betterstrongholds:stronghold",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "betterwitchhuts:witch_circle",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "betterwitchhuts:witch_hut",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "create_ltab:birch_structures",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "create_ltab:cave_ruins",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "create_ltab:cherry_house",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "create_ltab:dark_forest_house",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "create_ltab:desert_structures",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "create_ltab:grot",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "create_ltab:jungle_structures",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "create_ltab:mangrove_structures",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "create_ltab:nether_roof_house",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "create_ltab:pillage",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "create_ltab:plains_structures",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "create_ltab:quarry",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "create_ltab:ruins",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "create_ltab:snow_structures",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "create_ltab:spruce_structures",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "create_ltab:thecastle",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "create_ltab:water_pre",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "deeperdarker:ancient_temples",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "endersdelight:end_house",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "explorify:badlands_pyramids",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "explorify:black_spirals",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "explorify:campsites",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "explorify:dark_forest_settlements",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "explorify:desert_shrines",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "explorify:end_shipwrecks",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "explorify:farmsteads",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "explorify:guide_posts",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "explorify:mangrove_huts",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "explorify:mausoleums",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "explorify:ruins",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "explorify:supply_caches",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "explorify:taverns",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "explorify:watchtowers",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "incendium:greater_structures",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "incendium:lesser_structures",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "joshie:village_ocean",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "minecraft:ancient_cities",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "minecraft:buried_treasures",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "minecraft:desert_pyramids",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "minecraft:end_cities",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "minecraft:igloos",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "minecraft:jungle_temples",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "minecraft:mineshafts",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "minecraft:nether_complexes",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "minecraft:nether_fossils",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "minecraft:ocean_monuments",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "minecraft:ocean_ruins",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "minecraft:pillager_outposts",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "minecraft:ruined_portals",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "minecraft:shipwrecks",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "minecraft:swamp_huts",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "minecraft:trail_ruins",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "minecraft:trial_chambers",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "minecraft:villages",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "minecraft:woodland_mansions",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "mobs_of_mythology:automaton_structure",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "nova_structures:badlands_miner_outpost",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "nova_structures:badlands_miner_outpost_mineshafts",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "nova_structures:bunker",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "nova_structures:conduit_ruin",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "nova_structures:creeping_crypt",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "nova_structures:deepslate_camp",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "nova_structures:desert_ruins",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "nova_structures:end_lighthouses",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "nova_structures:end_ship",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "nova_structures:firewatch_towers",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "nova_structures:illager_camp",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "nova_structures:illager_hideout",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "nova_structures:jungle_ruins",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "nova_structures:mangrove_witch_hut",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "nova_structures:nether_camps",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "nova_structures:nether_skeleton_towers",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "nova_structures:nether_structures",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "nova_structures:remnants",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "nova_structures:ruin_town",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "nova_structures:shrine_tower",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "nova_structures:shrines",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "nova_structures:stray_fort",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "nova_structures:swamp_structure",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "nova_structures:taverns",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "nova_structures:trident_trial_monument",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "nova_structures:undead_crypt",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "nova_structures:underground_house",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "nova_structures:villages_birch",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "nova_structures:villages_jungle",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "nova_structures:villages_swamp",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "nova_structures:wells",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "nova_structures:wild_ruin",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "ribbits:ribbit_village",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "structory:mid_rare_ruin",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "structory:old_manor",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "structory:outcast_villager",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "structory:ruin",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "structory:ruin_quiet",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "terralith:mage",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "terralith:rare_dungeon",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "terralith:rare_village",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "terralith:regular",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "terralith:rubble",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "terralith:underground",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "terralith:underground_dungeon",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "the_bumblezone:bumbling_beepartments",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "the_bumblezone:cell_maze",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "the_bumblezone:cherry_veteran_tree",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "the_bumblezone:hanging_structures",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "the_bumblezone:honey_cave_room",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "the_bumblezone:main_structures",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "the_bumblezone:pollinated_stream",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "the_bumblezone:sempiternal_sanctums",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "the_bumblezone:throne_pillar",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "the_bumblezone:tiny_structures",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "towns_and_towers:other",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "towns_and_towers:towers",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "towns_and_towers:towns",
+    //   "factor": 1
+    // },
+    // {
+    //   "structure": "villagesandpillages:village_witch",
+    //   "factor": 1
+    // },
+    // add the structures you want to modify in the format:
+    // (don't forget to remove "//", and use dots for decimal numbers)
+    //
+    // {
+    //     "structure": "namespace:structure_name",
+    //     "factor": number
+    // },
+    //
+    // where "structure" is a structure_set or the name of a structure
+    // /!\ if you put the name of a structure, all structures in its set will be modified
+    // (example: "minecraft:village_plains" will modify all structures in the "villages" set)
+    // see https://minecraft.wiki/w/Tutorials/Custom_structures#Structure_Set for more info
+    //
+    // tip: you can dump all structure sets in a file by running the custom command /dumpstructuresets
+    // tip: the same spread factors rules apply here (set to 0 to disable said structure)
+  ]
+}

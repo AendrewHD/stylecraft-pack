@@ -1,0 +1,18 @@
+#.
+#Settings for thruster-based destruction and environmental heat effects.
+[evisceration]
+	#.
+	#.
+	#Whether thrusters should affect the world.
+	enabled = true
+	#.
+	#The frequency of evisceration.
+	# Default: 8.0
+	# Range: 0.0 ~ 100.0
+	rate = 8.0
+	#.
+	#If enabled, thrusters will ignite blocks in their exhaust path.
+	spawnFire = true
+	#.
+	#If enabled, thrusters will smelt blocks and items in their exhaust path.
+	smeltBlocks = true
