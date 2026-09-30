@@ -1,0 +1,13 @@
+name = "Create Aeronautics: Weight"
+filename = "weight-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XVgQexgC/versions/DNiXWANa/weight-1.2.0.jar"
+hash-format = "sha512"
+hash = "aa27b1d079389269163ac3268d08c81eced569df42e9951f8be010f6178845ff31d233ba982c65a36fcc619e9ad77aceefb3890a2e8690eeed8717b336fece2a"
+
+[update]
+[update.modrinth]
+mod-id = "XVgQexgC"
+version = "DNiXWANa"

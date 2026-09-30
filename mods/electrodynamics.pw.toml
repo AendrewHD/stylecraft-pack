@@ -1,0 +1,13 @@
+name = "Electrodynamics"
+filename = "electrodynamics-1.21.1-1.0.14.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xmhmr70o/versions/81LJg5IE/electrodynamics-1.21.1-1.0.14.jar"
+hash-format = "sha512"
+hash = "d7438e244e83b21a83fed88de9ed89806fb8fbaff6e28d26b81953b30c8ddc37adb24159ca9430c422579f66ff1b619ec9babbffea772e8376135231a11c41a8"
+
+[update]
+[update.modrinth]
+mod-id = "xmhmr70o"
+version = "81LJg5IE"

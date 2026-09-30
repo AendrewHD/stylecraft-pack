@@ -1,0 +1,13 @@
+name = "BluemapCreateEntityAddon"
+filename = "createentityaddon-1.2.2-5.14+.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/TaJOfqZg/versions/TX0Fiho8/createentityaddon-1.2.2-5.14%2B.jar"
+hash-format = "sha512"
+hash = "ea3d1832f39b82a2a2a4aea4684f7cbbd454c737dedaaece25109856477708e319e27dce716a2dd4d601d6a26824491a57703d4983fe475df8c169ddb39dc6d9"
+
+[update]
+[update.modrinth]
+mod-id = "TaJOfqZg"
+version = "TX0Fiho8"

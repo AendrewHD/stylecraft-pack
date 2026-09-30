@@ -1,0 +1,13 @@
+name = "Decorative Core"
+filename = "decorative_core-2.0705-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/g0YZhKZF/versions/oc18Qb65/decorative_core-2.0705-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "5fcc837722762e01125815ab475cc47213af3f210026a13b89221796ae8eeca32e18b8cee2d5335b7d979f50476a35a4bd641444b7e228171615fae43991d3c9"
+
+[update]
+[update.modrinth]
+mod-id = "g0YZhKZF"
+version = "oc18Qb65"

@@ -1,0 +1,13 @@
+name = "Talking Heads"
+filename = "talking-heads-1.1.3+1.21.1+neoforge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Os35nfkh/versions/FTrzXOg0/talking-heads-1.1.3%2B1.21.1%2Bneoforge.jar"
+hash-format = "sha512"
+hash = "d26991c60a3aa10a7541ebe5d9a593f31437431404a8273536130c81d401d8d363de28291820e1e7cbd69d707d900ba84fb607fb89b3afaa3566027ba58bd1fb"
+
+[update]
+[update.modrinth]
+mod-id = "Os35nfkh"
+version = "FTrzXOg0"

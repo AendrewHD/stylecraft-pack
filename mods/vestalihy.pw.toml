@@ -1,0 +1,13 @@
+name = "vestalihy"
+filename = "vestalihy-2.5.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bgLSyvzL/versions/g1PiIfJk/vestalihy-2.5.3.jar"
+hash-format = "sha512"
+hash = "5e9d7d5c5d5986ca8388d2b2e0eeb11229d9cd62154ac95d1b88642496e9a0b89257e95ffb00b4300531b9d516ce51f4d94639aa52ce96a650cff6ca345ec4cf"
+
+[update]
+[update.modrinth]
+mod-id = "bgLSyvzL"
+version = "g1PiIfJk"

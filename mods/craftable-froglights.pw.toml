@@ -1,0 +1,13 @@
+name = "Craftable Froglights"
+filename = "craftable-froglights-2.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zY9gYMZv/versions/YnausfIh/craftable-froglights-2.7.jar"
+hash-format = "sha512"
+hash = "502804f23a15e6888f3ec94166d216f68df36264518f1568b11c57af628e6a252af49d563fde8333f72e8c203ad6dd3d65f0bda1ee6bada2a15f4a94847e8d4d"
+
+[update]
+[update.modrinth]
+mod-id = "zY9gYMZv"
+version = "YnausfIh"

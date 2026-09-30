@@ -1,0 +1,13 @@
+name = "Particle Effects"
+filename = "ParticleEffects-1.6.0+1.21.1+neoforge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/PLAGcSFJ/versions/HVllSdtX/ParticleEffects-1.6.0%2B1.21.1%2Bneoforge.jar"
+hash-format = "sha512"
+hash = "f6076746fde55d438787d421e1276ecb4fa2117bfc8b5c29b3166f92baa8a23374b1e860f18a7fa9c3f385eb3db4d84260f42daf0efaaf5b8047e790481c5a00"
+
+[update]
+[update.modrinth]
+mod-id = "PLAGcSFJ"
+version = "HVllSdtX"

@@ -1,0 +1,13 @@
+name = "Lightest Lamps"
+filename = "lightestlamp-6.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nDmvYbga/versions/qVbDBvTB/lightestlamp-6.0.3.jar"
+hash-format = "sha512"
+hash = "a66cf80569a794ce84992c09a29a6111c6d702d7bb712d7f73516b5f328f2f128e2906cebcce07e43c784b574d316f1988de2bf6c01723bf9f4e92e7d2ae8dbd"
+
+[update]
+[update.modrinth]
+mod-id = "nDmvYbga"
+version = "qVbDBvTB"

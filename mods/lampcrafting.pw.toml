@@ -1,0 +1,13 @@
+name = "Lampcrafting"
+filename = "Lampcrafting1.0.7_neoforge_minecraft1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ec2eBEYf/versions/zMn15CMw/Lampcrafting1.0.7_neoforge_minecraft1.21.1.jar"
+hash-format = "sha512"
+hash = "6732d0adccb74d0a421233d9e6ef97ba64f3077a0663e0a1069fc29a093fd3069864be9a79f451ae01fb07fadcf452fe12abc36b6792e87bdf6bc514f0e8f81d"
+
+[update]
+[update.modrinth]
+mod-id = "Ec2eBEYf"
+version = "zMn15CMw"

@@ -1,0 +1,13 @@
+name = "Create: Alerted"
+filename = "CreateAlerted-0.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/55vbzcdN/versions/Z54r4h2o/CreateAlerted-0.2.1.jar"
+hash-format = "sha512"
+hash = "91bf083101b3618c1fd6b64d4580318a99a9132b0e7f42dfb65be4f7289bb0a02952870d960187381685b2452d3c11fe8fb56475c5d41c4b53930213d33ce92c"
+
+[update]
+[update.modrinth]
+mod-id = "55vbzcdN"
+version = "Z54r4h2o"

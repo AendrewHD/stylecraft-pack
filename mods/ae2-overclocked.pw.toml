@@ -1,0 +1,13 @@
+name = "AE2 Overclocked"
+filename = "ae2_overclocked-1.2.3-fix2-beta1-1.21.1Neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qBNkenUy/versions/K0okY7jj/ae2_overclocked-1.2.3-fix2-beta1-1.21.1Neoforge.jar"
+hash-format = "sha512"
+hash = "d5a79fd756e239129404525afd39d632dd5c6cf32c66a3127f21004404a697d9e775e75b4f35444c4c368a7f598a1a3508e278df2eda69216e0a712a98bf6289"
+
+[update]
+[update.modrinth]
+mod-id = "qBNkenUy"
+version = "K0okY7jj"

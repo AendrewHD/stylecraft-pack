@@ -1,0 +1,13 @@
+name = "Mobs of Mythology"
+filename = "mobs_of_mythology-neoforge-1.21.1-3.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/avrKhvsK/versions/rLXvf7Aw/mobs_of_mythology-neoforge-1.21.1-3.0.0.jar"
+hash-format = "sha512"
+hash = "4cfe323bfeb8a80a1e295d62fef308d9428e5b3c85c034f3a962c2fd46a712f018fb66a91651e66664a0ecc97bb7501da08a963f40ce2480e3661ee073b7f741"
+
+[update]
+[update.modrinth]
+mod-id = "avrKhvsK"
+version = "rLXvf7Aw"

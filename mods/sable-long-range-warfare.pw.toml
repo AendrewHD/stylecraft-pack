@@ -1,0 +1,13 @@
+name = "Sable Long Range Warfare"
+filename = "createarms-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/OdIsHRW6/versions/44Rr9OI7/createarms-1.0.0.jar"
+hash-format = "sha512"
+hash = "ff135c8d65d2d1a659e8fd436a7d3bca0a3025fb4bfdc3663acfd540bb92ffbed1f2bec2552ff0f3e3db048d59d31cdbb1406f58f303a99d0025686f5e50bc8b"
+
+[update]
+[update.modrinth]
+mod-id = "OdIsHRW6"
+version = "44Rr9OI7"

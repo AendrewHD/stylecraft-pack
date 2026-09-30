@@ -1,0 +1,13 @@
+name = "Sophisticated Backpack/Storage Emerald Upgrade"
+filename = "sophisticated_emerald_upgrade-1.0.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qkIuMMRF/versions/L6tCE9U5/sophisticated_emerald_upgrade-1.0.5.jar"
+hash-format = "sha512"
+hash = "1a0e1354f84f1053cf25de0f0fc74be18f2f7f03c6b16b94026b528971ae856cb1b29a4d60bbab9bc2362a470d858388de6d3fb8b938ec6965deccc34b25b93b"
+
+[update]
+[update.modrinth]
+mod-id = "qkIuMMRF"
+version = "L6tCE9U5"

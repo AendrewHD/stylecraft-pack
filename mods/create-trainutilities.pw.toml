@@ -1,0 +1,13 @@
+name = "Create Train Utilities (Create Train Doors)"
+filename = "trainutilities-neoforge-3.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/kVIxLqso/versions/MeF3ulWd/trainutilities-neoforge-3.1.0.jar"
+hash-format = "sha512"
+hash = "a892b0b06947830c01639ac1ecc026b6d974a73911589061c560216a8f3e82de9a8e7794c88d594a37fc39aed77f1e94500bf29b953be1dd7bd51880adf1ae79"
+
+[update]
+[update.modrinth]
+mod-id = "kVIxLqso"
+version = "MeF3ulWd"

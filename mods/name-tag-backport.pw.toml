@@ -1,0 +1,13 @@
+name = "Name Tag Backport"
+filename = "name-tag-crafting-backport-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/N6aOGJRT/versions/sxwkcQcP/name-tag-crafting-backport-1.0.2.jar"
+hash-format = "sha512"
+hash = "9ffa58554d2056bbeb375e9b441f2dc0bca436e460f90d8aae63378f2d47ae2e6fb93748e208d9b9cf4070c21da2447c4e0faae03b1aedebfca3b3e826a5a25c"
+
+[update]
+[update.modrinth]
+mod-id = "N6aOGJRT"
+version = "sxwkcQcP"

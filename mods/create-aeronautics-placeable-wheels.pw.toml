@@ -1,0 +1,13 @@
+name = "Create Aeronautics: Placeable Wheels"
+filename = "create_aeronautics_placeable_wheels-0.2-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/cC5Hn6ck/versions/Nd56JAaF/create_aeronautics_placeable_wheels-0.2-1.21.1.jar"
+hash-format = "sha512"
+hash = "917446df6bd5c203e588a78a698a74866464f5fdf2b52d70b471242042bda018e9a49ced667d80df0d7bab1f7f4cab0f3438de9ebdeb588cf4f070cfa7c7f642"
+
+[update]
+[update.modrinth]
+mod-id = "cC5Hn6ck"
+version = "Nd56JAaF"

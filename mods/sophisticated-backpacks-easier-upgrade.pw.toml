@@ -1,0 +1,13 @@
+name = "Sophisticated Backpacks easier upgrade"
+filename = "sophisticatedbackpacks-upgeade-easier-1.0.2-for1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8RICmZfy/versions/tneVvjbW/sophisticatedbackpacks-upgeade-easier-1.0.2-for1.21.1.jar"
+hash-format = "sha512"
+hash = "d855b1c8aaf4afd4b0947358f6c61134622bccb8a09eaa4f386013fbba3c0e5bddedbe6336aeb7eeefb370393ca016f3525c121f8c80ab9972f632d3e8d51435"
+
+[update]
+[update.modrinth]
+mod-id = "8RICmZfy"
+version = "tneVvjbW"

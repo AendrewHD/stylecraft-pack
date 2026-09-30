@@ -1,0 +1,13 @@
+name = "Create Missiles"
+filename = "createmissiles-1.0.3+neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8dmJJTC3/versions/E879erNz/createmissiles-1.0.3%2Bneoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "afb75283adaf801472de1f2dcdb1296d17086f448a4b61606cad5e88194d664cc50610c3cd849183a4e06da9d95a37341a5b2a26971c6a00206084f48967982f"
+
+[update]
+[update.modrinth]
+mod-id = "8dmJJTC3"
+version = "E879erNz"

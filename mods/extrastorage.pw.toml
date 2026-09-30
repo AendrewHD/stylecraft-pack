@@ -1,0 +1,13 @@
+name = "ExtraStorage"
+filename = "ExtraStorage-1.21.1-5.0.10.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/T34cBZKl/versions/jkXVShko/ExtraStorage-1.21.1-5.0.10.jar"
+hash-format = "sha512"
+hash = "ffc1c05c5cd539c2cca5d6e5cf4b8d3709859380c73902dbaf7d212619bbdc11b352bb1a0ebf06e4755a00ee8d5e69d5a7451f6978a7fa1dc6316d47cc944b49"
+
+[update]
+[update.modrinth]
+mod-id = "T34cBZKl"
+version = "jkXVShko"

@@ -1,0 +1,13 @@
+name = "Create: Schematic Void"
+filename = "schematicvoid-1.0.0-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/f14s0MPJ/versions/u5YKLZ5c/schematicvoid-1.0.0-1.21.1.jar"
+hash-format = "sha512"
+hash = "5f276007811cca90c696089b6a3928c5ba9bb6c30650a6ca2aab5924fbb167d0744a40d2d6ad89e17fa6607c6c2b0ae5552e9e4bfbbb45a712e67e59ade2f794"
+
+[update]
+[update.modrinth]
+mod-id = "f14s0MPJ"
+version = "u5YKLZ5c"

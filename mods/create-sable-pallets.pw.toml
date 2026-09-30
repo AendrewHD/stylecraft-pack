@@ -1,0 +1,13 @@
+name = "Create Sable Pallets"
+filename = "sable_pallets-1.0.2-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rEMKY2sT/versions/VuTR22ew/sable_pallets-1.0.2-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "959aa9619febb9384db72aaafebc6e24f15a8973c16d4a8c3eb6746c77cfdac11ff695a94c05eefee6d8e8f740224cdf5cdce61dbe36cfbc177eb5a2a34d9e21"
+
+[update]
+[update.modrinth]
+mod-id = "rEMKY2sT"
+version = "VuTR22ew"

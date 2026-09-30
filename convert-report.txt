@@ -1,0 +1,88 @@
+﻿Jars scanned:          779
+Modrinth projects:     425
+Not on Modrinth:       2
+Left as raw jars:      1  (not on Modrinth or CurseForge - committed to git, installed on BOTH sides)
+
+Raw jars:
+  vanilla-missiles-1.0.0.jar   [found on: both]
+
+Mods found only on the server (side = server):
+  ae2webintegration-1.0.2-neoforge-1.21.1.jar
+  Chunky-NeoForge-1.4.23.jar
+  chunky-offline-v1.1.0.jar
+  chunkactivitytracker-neoforge-1.0.1-1.21.1.jar
+  bluemapfrontiers-1.21_neoforge-1.1.0.jar
+  createschematicchecker-2.27.45-6.0-neoforge-1.21.1.jar
+  createentityaddon-1.2.2-5.14+.jar
+  create_bluemap-1.1.1.jar
+  does_it_tick-neoforge-1.1.4-1.21.1.jar
+  krypton_fnp-neoforge-1.21.1-0.2.28.1-1.21.1.jar
+  structure_layout_optimizer-neoforge-1.0.12.jar
+  sdm-core-neoforge-1.21.1-2.1.2.jar
+  terrablenderfix-neoforge-1.21.1-0.0.1.jar
+  zfastnoise-1.0.13+1.21.1+neoforge.jar
+  tt20-0.8.5+mc1.21.1-neoforge.jar
+  bluemap-5.7-neoforge.jar
+  unloadedactivity-0.7.3+mc1.21-1.21.1.jar
+
+Mods found only on the client (side = client):
+  AsyncParticles-21.1.4.4+1.21.1.jar
+  better_modlist-21.1.1.jar
+  boatiview-neoforge-0.0.6-1.21.1.jar
+  BridgingMod-2.6.2+1.21.1.neoforge-release.jar
+  bundle-api-neoforge-1.1.0.jar
+  chatanimation-neoforge-1.3.3+mc1.21.jar
+  chat_heads-0.15.7-neoforge-1.21.jar
+  continuity-3.0.0+1.21.neoforge.jar
+  Controlling-neoforge-1.21.1-19.0.5.jar
+  cwb-neoforge-3.0.0+mc1.21.jar
+  do_a_barrel_roll-neoforge-3.7.3+1.21.jar
+  draggable_lists-mc1.20.6-1.0.8-build.44.jar
+  durabilitytooltip-1.2.0-neoforge-mc1.21.jar
+  dynamiccrosshair-9.11+1.21.1-neoforge.jar
+  eg_particle_interactions-0.4.1-neoforge-mc1.21.1.jar
+  emiffect-neoforge-2.1.6+mc1.21.1.jar
+  emiforcreatestock-1.0.8.jar
+  EMIProfessions-neoforge-1.21.1-1.0.3.jar
+  emixx-2.1.0.jar
+  emi_accelerator-1.1.4.jar
+  emi_create_schematics-1.1.0.jar
+  emi_enchanting-0.1.2+1.21+neoforge.jar
+  emi_loot-0.7.9+1.21+neoforge.jar
+  emi_ores-1.3+1.21.1+neoforge.jar
+  emi_patternizer-1.1.3.jar
+  enchdesc-neoforge-1.21.1-21.1.11.jar
+  entityculling-neoforge-1.11.2-mc1.21.1.jar
+  entity_model_features-3.3.9-1.21-neoforge.jar
+  entity_texture_features-7.2.4-1.21-neoforge.jar
+  extra-mod-integrations-all-neoforge-1.0.3+1.21.1.jar
+  highlight-neoforge-1.21-3.0.0.jar
+  InventoryParticles-3.2.0+1.21.1+neoforge.jar
+  InventoryProfilesNext-neoforge-1.21.1-2.2.5.jar
+  iris-neoforge-1.8.14-beta.1+mc1.21.1.jar
+  journeymap-webmap-neoforge-1.21.4-1.0.11.jar
+  lambdynamiclights-4.8.11+1.21.1.jar
+  libjf-3.17.7+forge.jar
+  MossyLib-1.6.0+1.21.1+neoforge.jar
+  MouseTweaks-neoforge-mc1.21-2.26.1.jar
+  Not Enough Recipe Book-NEOFORGE-0.4.3+1.21.jar
+  notenoughanimations-neoforge-1.12.6-mc1.21.1.jar
+  OverflowingBars-v21.1.1-1.21.1-NeoForge.jar
+  ParticleEffects-1.6.0+1.21.1+neoforge.jar
+  particle_core-0.3.3+1.21+neoforge.jar
+  Ping-Wheel-1.12.2-neoforge-1.21.1.jar
+  punchy-2.8a-neoforge-1.21.1.jar
+  refinedstorage-emi-integration-neoforge-1.0.0.jar
+  remi-neoforge-1.21.1-4.7.7.jar
+  respackopts-4.14.0+1.21.1.forge.4.jar
+  saturn-mc1.21.1-0.1.5.jar
+  shine-2.0.2+1.21.1-neoforge.jar
+  shulkerboxtooltip-neoforge-5.1.9+1.21.1.jar
+  sodium-neoforge-0.8.13+mc1.21.1.jar
+  sound-physics-remastered-neoforge-1.21.1-1.5.1.jar
+  spawnanimations-v1.11.5-mc1.17-26.2.9-mod.jar
+  swingthrough-1.0.5+1.21.jar
+  talking-heads-1.1.3+1.21.1+neoforge.jar
+  TravelersTitles-1.21.1-NeoForge-5.1.3.jar
+  UniversalEnchantmentInfo-1.21.1-neoforge-1.3.0.jar
+  zume-1.2.2.jar

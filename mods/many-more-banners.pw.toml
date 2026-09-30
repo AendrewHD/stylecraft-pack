@@ -1,0 +1,13 @@
+name = "Many More Banners"
+filename = "many-more-banners-0.2.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Dv9hvreZ/versions/TunRswjF/many-more-banners-0.2.4.jar"
+hash-format = "sha512"
+hash = "bc9568f6904a31526470fb77d796e3f2aa7c65f0ecceb7c9cacecd6181b837a6d596c095370fd6b62c1a577c7bdbf3ae40bfb8855971d8654882ee84277efa12"
+
+[update]
+[update.modrinth]
+mod-id = "Dv9hvreZ"
+version = "TunRswjF"

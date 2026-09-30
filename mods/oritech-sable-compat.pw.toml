@@ -1,0 +1,13 @@
+name = "Oritech Sable Compat"
+filename = "oritechsablecompat-0.1.8-RELEASE.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bLzzgacQ/versions/ES6qgPde/oritechsablecompat-0.1.8-RELEASE.jar"
+hash-format = "sha512"
+hash = "db29b3cb32c40c0fffec189fe7b1d41d9ad491d42786564cecf8a9f36fb4c2931337622573b29c89a392b4039e7998fe75dfeff72d29a1ea3d3866efa325c497"
+
+[update]
+[update.modrinth]
+mod-id = "bLzzgacQ"
+version = "ES6qgPde"

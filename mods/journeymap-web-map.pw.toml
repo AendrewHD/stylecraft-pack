@@ -1,0 +1,13 @@
+name = "JourneyMap  Web Map"
+filename = "journeymap-webmap-neoforge-1.21.4-1.0.11.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/YaZ1fUTg/versions/Z3sPsjp0/journeymap-webmap-neoforge-1.21.4-1.0.11.jar"
+hash-format = "sha512"
+hash = "e3663617b9f2616663bdef04bdcb9395b5ddf4376b218bbcf3d8f93a95a57cf1c7bbdbcf52545c76be1c3875940d551107ba586f4e78a6866458df3bd2db6f37"
+
+[update]
+[update.modrinth]
+mod-id = "YaZ1fUTg"
+version = "Z3sPsjp0"

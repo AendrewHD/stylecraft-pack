@@ -1,0 +1,13 @@
+name = "Inventory Particles"
+filename = "InventoryParticles-3.2.0+1.21.1+neoforge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/XYnKrsxH/versions/tIeIGFCs/InventoryParticles-3.2.0%2B1.21.1%2Bneoforge.jar"
+hash-format = "sha512"
+hash = "0fcec536b01339f1d3bdd875c924cd083328362fdcde9487e67f2a425426faa2b7783a86c1fb7af885e25edfa802cb2cce81db7a643291f2d0677ad6cbcf9c02"
+
+[update]
+[update.modrinth]
+mod-id = "XYnKrsxH"
+version = "tIeIGFCs"

@@ -1,0 +1,13 @@
+name = "Botany Pots Tiers"
+filename = "botanypotstiers-neoforge-1.21.1-7.0.11.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fvMhZPuf/versions/qcjQudsm/botanypotstiers-neoforge-1.21.1-7.0.11.jar"
+hash-format = "sha512"
+hash = "55b114df1f56a66dfd248209cfa523627e83b8f3a5331c97c814a04430eb620cb6389b7f30286a242269d5c8c7c154b5a17b91d6451f364a73cae35abd9ae8b8"
+
+[update]
+[update.modrinth]
+mod-id = "fvMhZPuf"
+version = "qcjQudsm"

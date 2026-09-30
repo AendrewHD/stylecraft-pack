@@ -1,0 +1,13 @@
+name = "Ars Unification"
+filename = "ars_unification-1.2.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fRdwEsp6/versions/cRXH7NLO/ars_unification-1.2.21.jar"
+hash-format = "sha512"
+hash = "174f9bda3485b76eb29c7a3185f8616c47bc8083edd1367d1c640ba29d2e03c8c14e2a33f1bb24c0f5d367ab26defd8819f8726aaa0a7b7836933aa2320925e4"
+
+[update]
+[update.modrinth]
+mod-id = "fRdwEsp6"
+version = "cRXH7NLO"

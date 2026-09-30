@@ -1,0 +1,13 @@
+name = "Applied Schematics"
+filename = "appliedschematics-0.21.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nOkPQf0d/versions/XJKeqnFA/appliedschematics-0.21.0.jar"
+hash-format = "sha512"
+hash = "7a4a2578e51be4f41f3ceb939c339ce2d8381835e58b5a1410767c4074ae25477f503b4c16686f2d50d7a305bd0860da088ff39d53b72262e2e53b16be07ab95"
+
+[update]
+[update.modrinth]
+mod-id = "nOkPQf0d"
+version = "XJKeqnFA"

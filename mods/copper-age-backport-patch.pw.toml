@@ -1,0 +1,13 @@
+name = "Copper Age Backport Patch"
+filename = "copper_age_patch-neoforge-1.21.1-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7243b236338316d0ec4f4405f8273c3570f7d809"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8895275
+project-id = 1696121

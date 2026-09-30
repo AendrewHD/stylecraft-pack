@@ -1,0 +1,13 @@
+name = "Cyberish Lights"
+filename = "cyberishlights-1.21.1-2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bihavaKq/versions/jDblh7ba/cyberishlights-1.21.1-2.0.0.jar"
+hash-format = "sha512"
+hash = "2e78e7bbe3b67a99feb4f965d65dfd82224b37814c0ecec8b3b16d60ec2a25f7f3fbda4c8522f4e6e19f7ee9feb2eab214dabfa092da770c8f6d29e06beabae4"
+
+[update]
+[update.modrinth]
+mod-id = "bihavaKq"
+version = "jDblh7ba"

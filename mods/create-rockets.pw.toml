@@ -1,0 +1,13 @@
+name = "Create rockets"
+filename = "create_rockets-0.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nBpDlDTq/versions/v0x03Jys/create_rockets-0.5.jar"
+hash-format = "sha512"
+hash = "b2862b70b3c7193aa4a2a9468c112b959573564efaae5eda95bf9bb5a2a502d0ae07ce6101e44e8722b712d5054076d018b76127a78c629981e0a16fa6fb085c"
+
+[update]
+[update.modrinth]
+mod-id = "nBpDlDTq"
+version = "v0x03Jys"

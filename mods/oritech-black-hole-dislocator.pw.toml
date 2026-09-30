@@ -1,0 +1,13 @@
+name = "Oritech Black Hole Dislocator"
+filename = "OritechBlackHoleDislocator-Neoforge-1.21.1-0.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xkyxx4cm/versions/eJTL1E8W/OritechBlackHoleDislocator-Neoforge-1.21.1-0.0.2.jar"
+hash-format = "sha512"
+hash = "0435bcef3317abc0ba8c4b86ec9fc02b3a6c545ebdbbfcb8ab53bc193637048567b59456ab2cc31d9c31d526677f7a0dbcfd854c14e087a520e9d41947a313bb"
+
+[update]
+[update.modrinth]
+mod-id = "xkyxx4cm"
+version = "eJTL1E8W"

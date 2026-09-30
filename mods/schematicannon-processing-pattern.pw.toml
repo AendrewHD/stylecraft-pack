@@ -1,0 +1,13 @@
+name = "Schematicannon Processing Pattern"
+filename = "schematicanon_processing_pattern-1.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WwlA6BGw/versions/wuJIYp18/schematicanon_processing_pattern-1.0-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "5e311a43a93d89094e8ed7d7e70c277412503d024b39e9bc33bec6b71fe3a666007dc12c9c1c2ee3421a74e74190f8515f898959d92eac14805765885ce17176"
+
+[update]
+[update.modrinth]
+mod-id = "WwlA6BGw"
+version = "wuJIYp18"

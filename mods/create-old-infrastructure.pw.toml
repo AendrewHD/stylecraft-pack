@@ -1,0 +1,13 @@
+name = "Create: Old Infrastructure"
+filename = "old_infrastructure-1.2.1-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/h7UjQwqh/versions/kNxg2jFz/old_infrastructure-1.2.1-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "0009a9fe1217d5d9456e5836168fa156b2cfa2e88d01750e69faedbf600361978edc5ca9b70e10100f0a90265f99ff24af9e20c1b407da5ed5fd59875f957e68"
+
+[update]
+[update.modrinth]
+mod-id = "h7UjQwqh"
+version = "kNxg2jFz"

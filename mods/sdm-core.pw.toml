@@ -1,0 +1,13 @@
+name = "SDM Core"
+filename = "sdm-core-neoforge-1.21.1-2.1.2.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/cOuRJbta/versions/sHsx2vuj/sdm-core-neoforge-1.21.1-2.1.2.jar"
+hash-format = "sha512"
+hash = "c87816f52fd76ee8c009fa739b7fd56ba48c2f7ee27dd15b3f418d1a981d77d25c99e65e00ea479f825d8ce2eca85495733099d13bc31feca266942043a3c904"
+
+[update]
+[update.modrinth]
+mod-id = "cOuRJbta"
+version = "sHsx2vuj"

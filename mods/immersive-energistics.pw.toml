@@ -1,0 +1,13 @@
+name = "Immersive Energistics"
+filename = "Immersive-Energistics-1.1.0-beta.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ADAUe1vC/versions/KSggPvkO/Immersive-Energistics-1.1.0-beta.jar"
+hash-format = "sha512"
+hash = "cbe8971cd3d1f1f66bdaad596b0bba14ffc3ec853c6738731efb4004b40aba8cffafeca8f9ee5f947f7bc48aea1efc1fb9a967ca9a975ac770128f280a49c312"
+
+[update]
+[update.modrinth]
+mod-id = "ADAUe1vC"
+version = "KSggPvkO"

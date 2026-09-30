@@ -1,0 +1,13 @@
+name = "Reliquified Ars Nouveau"
+filename = "reliquified_ars_nouveau-1.21.1-0.8.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qNOCEdeg/versions/xtS9iqts/reliquified_ars_nouveau-1.21.1-0.8.1.jar"
+hash-format = "sha512"
+hash = "5010ac4948c6868899d2da2dd9af9e447ccfc0bd7b6103a03e6d9ea555ad315bfd0927a2430dc2c6639980111e7ea0941aaef4520985f6068feb431900810a3a"
+
+[update]
+[update.modrinth]
+mod-id = "qNOCEdeg"
+version = "xtS9iqts"

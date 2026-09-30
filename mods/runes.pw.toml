@@ -1,0 +1,13 @@
+name = "Runes"
+filename = "runes-neoforge-1.3.2+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lP9Yrr1E/versions/Br4oP4M6/runes-neoforge-1.3.2%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "df0a53a540e886223004a42e9b3f40e331d0d004bd60ecd433ea058515092ad7dc81c31a876b441b6c2ca007d9dfbcb699810495e0608f6bbf29cec46b057339"
+
+[update]
+[update.modrinth]
+mod-id = "lP9Yrr1E"
+version = "Br4oP4M6"

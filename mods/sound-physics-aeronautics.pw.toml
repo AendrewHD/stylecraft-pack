@@ -1,0 +1,13 @@
+name = "Sound Physics: Aeronautics"
+filename = "sound-physics-remastered-neoforge-1.4.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/JHKPj7kB/versions/Io3PzZ4M/sound-physics-remastered-neoforge-1.4.0.1.jar"
+hash-format = "sha512"
+hash = "e38dd3836167363102897d1c7632f465d0b45d0ab08161f4dd84fbfaef2d3d0acfcc7c8c52c7f50637611f948790c2e84109a6ec1b43acd17b6d4a7a70342b29"
+
+[update]
+[update.modrinth]
+mod-id = "JHKPj7kB"
+version = "Io3PzZ4M"

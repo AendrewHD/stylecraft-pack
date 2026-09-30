@@ -1,0 +1,13 @@
+name = "Portable Blueprints"
+filename = "portable_blueprints-v2.0.10-mv1.21.1neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pTRNOhPP/versions/eNemFHbI/portable_blueprints-v2.0.10-mv1.21.1neoforge.jar"
+hash-format = "sha512"
+hash = "1c67153e938c16a35c504c7bdb03cb029c87005966db1369ed5b9fc851a13cf95bdf6a3aa5db1c88d536a23c6645890551bd62be9140da7dd72964d9abb86d88"
+
+[update]
+[update.modrinth]
+mod-id = "pTRNOhPP"
+version = "eNemFHbI"

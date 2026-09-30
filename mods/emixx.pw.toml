@@ -1,0 +1,13 @@
+name = "EMI++"
+filename = "emixx-2.1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/AWMWYMwC/versions/AwvnugPB/emixx-2.1.0.jar"
+hash-format = "sha512"
+hash = "a44d9a9f3fd6a3112cafd84facbed8fc330ac7498f8be102d0ea1e12bb669b04728c8f89396d9225369bfe9141253429094c2bb23d548a0f7d79da0f24fd463a"
+
+[update]
+[update.modrinth]
+mod-id = "AWMWYMwC"
+version = "AwvnugPB"

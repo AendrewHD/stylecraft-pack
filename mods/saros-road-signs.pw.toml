@@ -1,0 +1,13 @@
+name = "Saro´s Road Signs"
+filename = "Saros-Road-Signs-NeoForge-1.21.1-4.14.10.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ba3uA4qP/versions/TjOoASKc/Saros-Road-Signs-NeoForge-1.21.1-4.14.10.jar"
+hash-format = "sha512"
+hash = "cebd6328265f37bfc872cd1fac519a1506064fd28dd643532a971559cc74dbda1ef2b8479cf2dd306d092833c4a68eadf3db83830ee4e22fcd73fad442187ec9"
+
+[update]
+[update.modrinth]
+mod-id = "Ba3uA4qP"
+version = "TjOoASKc"

@@ -1,0 +1,13 @@
+name = "Colorful Redstone Lamps"
+filename = "colorful_redstone_lamps-1.0.5-mc1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/A70uPga2/versions/PDNGWQcX/colorful_redstone_lamps-1.0.5-mc1.21.1-neoforge.jar"
+hash-format = "sha512"
+hash = "2072a414ae80c37ef50152760bf2a6ec3805af570593eacae7f9a4de3fd80f7bbc05c04f6bec0b8efcdbea0070897a92d1b74bb3da19459313ea5f08c87fbbb8"
+
+[update]
+[update.modrinth]
+mod-id = "A70uPga2"
+version = "PDNGWQcX"

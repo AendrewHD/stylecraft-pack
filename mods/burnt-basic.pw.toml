@@ -1,0 +1,13 @@
+name = "Burnt"
+filename = "burnt_basic-1.10.5-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/aclfPzta/versions/k6uRUh5V/burnt_basic-1.10.5-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "83e063048bfa02d9336eeb93498e8e7b06c543e2225e581b5999fdb4e0ee0b4d05e7352fb36f13c0af8bc48da298939ed8e84cdc391cd31a4e59a1b3b67e2f49"
+
+[update]
+[update.modrinth]
+mod-id = "aclfPzta"
+version = "k6uRUh5V"

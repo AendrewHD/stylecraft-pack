@@ -1,0 +1,13 @@
+name = "EmiAccelerator"
+filename = "emi_accelerator-1.1.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/tcEn0k7K/versions/XGUSMafs/emi_accelerator-1.1.4.jar"
+hash-format = "sha512"
+hash = "a3a38ad9bf36f2ccc23843f059079ceb12d6f3d432fe103c8f55afeff181dac864cf8502412372cf8d5c54ec5eb0cee133ef836047a81980cc0d80454e0eaab5"
+
+[update]
+[update.modrinth]
+mod-id = "tcEn0k7K"
+version = "XGUSMafs"

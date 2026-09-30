@@ -1,0 +1,13 @@
+name = "Create: Automatics"
+filename = "createautomatics-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/UEmUkPnV/versions/UggaJy6l/createautomatics-1.0.1.jar"
+hash-format = "sha512"
+hash = "91aa166982a988f8c2781d47ae21e7aa782520deefc99938a2bbf7fa669e17dcd3503909e495578e65d47b39ad8630692755baabeb7c0ff7713164f8fd12c994"
+
+[update]
+[update.modrinth]
+mod-id = "UEmUkPnV"
+version = "UggaJy6l"

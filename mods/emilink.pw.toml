@@ -1,0 +1,13 @@
+name = "EMILink"
+filename = "emilink-1.1.13.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/andySBF0/versions/sZqfpPmB/emilink-1.1.13.jar"
+hash-format = "sha512"
+hash = "926eb29caced9a3ce414306a6676479382a80eb46334d54fbd948127f1791a940e885a8cd62ff814b6cd1fa8b543708723ce4bc37c05895bc8eb930f5f441826"
+
+[update]
+[update.modrinth]
+mod-id = "andySBF0"
+version = "sZqfpPmB"

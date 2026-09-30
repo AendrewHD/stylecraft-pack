@@ -1,0 +1,13 @@
+name = "JourneyMap Waypoint Syncing (JMWS)"
+filename = "jmws-neoforge-1.2.7-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/cF5KO1B5/versions/GS9QXZjE/jmws-neoforge-1.2.7-1.21.1.jar"
+hash-format = "sha512"
+hash = "22cd7304eedd909a5e9d3823268733401b61091ebf66e97b6ed67f594f6f3c287c9749539d4300bfbcce444b975f3b0395d13b333a5abf5e8af2f2dbc1acbddf"
+
+[update]
+[update.modrinth]
+mod-id = "cF5KO1B5"
+version = "GS9QXZjE"

@@ -1,0 +1,13 @@
+name = "Create Kinetic"
+filename = "createkinetic-1.2.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/E4S14KY0/versions/slgleNes/createkinetic-1.2.7.jar"
+hash-format = "sha512"
+hash = "298c9d7c0c99578847491d69e9139c6980a737d8c9470ee33e37e48ac5923b16f30803a382938afc0f4e117ba8e0e5a29ea8cb987a44dddbd79400c1cadaa8bb"
+
+[update]
+[update.modrinth]
+mod-id = "E4S14KY0"
+version = "slgleNes"

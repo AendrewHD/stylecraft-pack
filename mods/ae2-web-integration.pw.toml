@@ -1,0 +1,13 @@
+name = "AE2 Web Integration"
+filename = "ae2webintegration-1.0.2-neoforge-1.21.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/8MGTfmHF/versions/n0mpflCp/ae2webintegration-1.0.2-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "8ea9a18c13eb4b1fa6d504b14ee8e58065a32ee43d53c49fe93477373f3ca1a7645256eaa693eb4e9c9185ee366a9f411576bc472c8fb147eeab99a3a7c28024"
+
+[update]
+[update.modrinth]
+mod-id = "8MGTfmHF"
+version = "n0mpflCp"
