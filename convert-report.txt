@@ -1,4 +1,4 @@
-﻿Jars scanned:          779
+Jars scanned:          779
 Modrinth projects:     425
 Not on Modrinth:       2
 Left as raw jars:      1  (not on Modrinth or CurseForge - committed to git, installed on BOTH sides)
