@@ -4272,6 +4272,16 @@ hash = "8fbca321f374195c8efe1538b40be32dd89214afc45a1f49b7ae0c6d494f65f1"
 metafile = true
 
 [[files]]
+file = "mods/snassets-library-general.pw.toml"
+hash = "31c2b517d5d0ed243395656973d45682244126f33d6c5843956d1cd267bbdb5f"
+metafile = true
+
+[[files]]
+file = "mods/snassets-library-particles.pw.toml"
+hash = "25c1de3ece15ee04b0527a72f731795d98af837ebf1e4c1fe4bacd8f2a825a2f"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "2a001cdb3d5ac4970d422914083c27380eba8ebd40dfd435754fe6566ba78beb"
 metafile = true

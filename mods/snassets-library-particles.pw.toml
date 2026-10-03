@@ -1,0 +1,13 @@
+name = "SnAssets Library - Particles"
+filename = "snassets_particles-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/3w6lq0GG/versions/LyEE9aSZ/snassets_particles-1.0.1.jar"
+hash-format = "sha512"
+hash = "4b08a19da683e89a8cbd103c68856a38f3385d0dc1c40dbfc703f50c6715f3957f81e49bf65028fd547a5eba8f24aec7b59ee1b9b0f6c197efef1b614051c617"
+
+[update]
+[update.modrinth]
+mod-id = "3w6lq0GG"
+version = "LyEE9aSZ"

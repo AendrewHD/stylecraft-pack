@@ -1,0 +1,13 @@
+name = "SnAssets Library - General"
+filename = "snassets-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/E40iGlJ7/versions/iBTikNyJ/snassets-1.0.2.jar"
+hash-format = "sha512"
+hash = "f6ce415739a3940c9a647b46a8af00fc751c03f7aa9a75877902b83e42834e56636f6cbe91d50546baa243a0ef3434659fd7c7ef22f0dd37d4f65f34807653f1"
+
+[update]
+[update.modrinth]
+mod-id = "E40iGlJ7"
+version = "iBTikNyJ"
