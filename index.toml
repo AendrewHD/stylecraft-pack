@@ -2987,11 +2987,6 @@ hash = "fe642f391d1da67b5308987fb8ed3f4e1914d92bb181d8c05c6f5635e886b635"
 metafile = true
 
 [[files]]
-file = "mods/create-nested-factory.pw.toml"
-hash = "709c4e39faa6894fa7df62af375bb4ba7f5526b6349fac74b5c4465e71f3ad62"
-metafile = true
-
-[[files]]
 file = "mods/create-new-age.pw.toml"
 hash = "39499039e11a6e0f50542d80af94c172342fdb686f3a59d5ee4457d978a54e75"
 metafile = true
