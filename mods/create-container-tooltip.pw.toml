@@ -1,0 +1,13 @@
+name = "Create Container Tooltip"
+filename = "createcontainertooltip-1.0.2+1.21.1-neoforge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/iNIevT2N/versions/q0MjgqvV/createcontainertooltip-1.0.2%2B1.21.1-neoforge.jar"
+hash-format = "sha512"
+hash = "b77d45df179a63e84d48cbc52f498fac79183c847407c0aa6155b481d5d57f5f19ee43e32b5f504bbeb56d9fc5e42b26a46303d6a5828622cc203bcdc8bebff2"
+
+[update]
+[update.modrinth]
+mod-id = "iNIevT2N"
+version = "q0MjgqvV"

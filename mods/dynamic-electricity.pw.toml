@@ -1,0 +1,13 @@
+name = "Dynamic Electricity"
+filename = "dynamicelectricity-1.21.1-1.2.1-0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/gYqTAyBw/versions/RERuOOaQ/dynamicelectricity-1.21.1-1.2.1-0.jar"
+hash-format = "sha512"
+hash = "dcd1e8cc6f878eff68e5476b02e5a8558175cad1ba806471fa87e1ce1b56bf59133f1a219d5be0a8483c46da9f246fab21a06aaa0075ee45a5be213c5ccef636"
+
+[update]
+[update.modrinth]
+mod-id = "gYqTAyBw"
+version = "RERuOOaQ"

@@ -1,0 +1,13 @@
+name = "Create: Rolling Tones"
+filename = "rolling-tones-0.2.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/eMSbM34C/versions/6QNmBE48/rolling-tones-0.2.2.jar"
+hash-format = "sha512"
+hash = "737f119adaa07b0d885bc72705b0220d575f6ffc0d17f85f402bacee7ab4c2a0560bf65d77135fd85609510eb2526664e6e179b37eb64c029747cfe93fda0494"
+
+[update]
+[update.modrinth]
+mod-id = "eMSbM34C"
+version = "6QNmBE48"

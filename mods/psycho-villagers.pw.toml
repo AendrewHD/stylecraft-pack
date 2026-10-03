@@ -1,0 +1,13 @@
+name = "Psycho Villagers"
+filename = "psycho_villagers-0.5.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/I8Z0O4IF/versions/61m7T6JB/psycho_villagers-0.5.4.jar"
+hash-format = "sha512"
+hash = "40ba996da6828a35c35a286a01f687597346fc940ffb1d050bf6fa2bd78981838980a49c56727baa4899e0273cbd7cd0926241cb2e69b3cd29a51c4c8382af90"
+
+[update]
+[update.modrinth]
+mod-id = "I8Z0O4IF"
+version = "61m7T6JB"

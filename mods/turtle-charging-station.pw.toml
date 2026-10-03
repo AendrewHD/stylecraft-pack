@@ -1,0 +1,13 @@
+name = "Turtle Charging Station"
+filename = "turtlechargingstation-1.7.0-1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/f7J3NZvt/versions/oi7LH70R/turtlechargingstation-1.7.0-1.21.1-neoforge.jar"
+hash-format = "sha512"
+hash = "e44ffeee03f24016c62049a27c3462f2b2ddf9ac8cc0b8ebea731f8567aace63eb8ba0ee89daac4f9beccafb77063a36515d4779414853ccbe623ea32f1b8bfb"
+
+[update]
+[update.modrinth]
+mod-id = "f7J3NZvt"
+version = "oi7LH70R"

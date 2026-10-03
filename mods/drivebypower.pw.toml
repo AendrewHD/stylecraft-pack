@@ -1,0 +1,13 @@
+name = "Aeronautics: DriveByPower"
+filename = "drivebypower-1.0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hjrZTffG/versions/MJgNMDQb/drivebypower-1.0.4.jar"
+hash-format = "sha512"
+hash = "a0b225debe0e7a661c41734c5da480cdce3409b9b416576d7e9857856bb96eeea0eccc662ce31c63e43eb9c6acf011a6d98d1788d4e8bbb398bf720f155b5fe9"
+
+[update]
+[update.modrinth]
+mod-id = "hjrZTffG"
+version = "MJgNMDQb"

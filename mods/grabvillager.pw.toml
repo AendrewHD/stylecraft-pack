@@ -1,0 +1,13 @@
+name = "Grab Villager"
+filename = "grabvillager-neoforge-1.21.1-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FJX2GwgJ/versions/bOZw1otY/grabvillager-neoforge-1.21.1-1.0.0.jar"
+hash-format = "sha512"
+hash = "60a682e6a8480b18228b7fd3a88769e04c1dd236fdde7c38728db87b419f914e196daf7e593b482848c60397e2cf63cb2d45b31e9e1859d1192575aa801e20c6"
+
+[update]
+[update.modrinth]
+mod-id = "FJX2GwgJ"
+version = "bOZw1otY"

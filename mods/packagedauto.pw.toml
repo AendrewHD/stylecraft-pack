@@ -1,0 +1,13 @@
+name = "PackagedAuto"
+filename = "PackagedAuto-1.21.1-4.0.8.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ugIdhQx4/versions/ErYy5Im9/PackagedAuto-1.21.1-4.0.8.21.jar"
+hash-format = "sha512"
+hash = "96a730b8221e5e9eefa27fe78c429dc7efaeb5ccb6c7f39b122ad8a89549c353b883bad00190aa5beff5ebbc9a2494db3eee8883c1c4b6a98a83bba1337de627"
+
+[update]
+[update.modrinth]
+mod-id = "ugIdhQx4"
+version = "ErYy5Im9"

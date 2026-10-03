@@ -1,0 +1,13 @@
+name = "Create: Harmonics"
+filename = "createharmonics-neoforge-1.21.1-1.1.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uWn64pD9/versions/siTn4nXm/createharmonics-neoforge-1.21.1-1.1.7.jar"
+hash-format = "sha512"
+hash = "f3a2310d1d9c8b628d50fa41e3fd27e2de1f78b7489d05001db8eb14e2a4e0c6386870c9813435f710a543b6fb5ad87646e0fa974d1a8f221144de225e78c4c0"
+
+[update]
+[update.modrinth]
+mod-id = "uWn64pD9"
+version = "siTn4nXm"

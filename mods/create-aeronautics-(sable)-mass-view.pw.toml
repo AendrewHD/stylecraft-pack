@@ -1,0 +1,13 @@
+name = "Sable: Mass view (Create Aeronautics)"
+filename = "sablemassview-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/f5uobnkD/versions/Dc1FsCO5/sablemassview-1.0.0.jar"
+hash-format = "sha512"
+hash = "bc58d44e992a408195afb858ed9bc0120300bd4e3dc72376b9d5901818e99bed6daff7b7aec0187cbf422ed8254e40734bee3e86154cff58ebffe3e2b9b514b3"
+
+[update]
+[update.modrinth]
+mod-id = "f5uobnkD"
+version = "Dc1FsCO5"

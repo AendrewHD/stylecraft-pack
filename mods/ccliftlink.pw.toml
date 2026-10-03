@@ -1,0 +1,13 @@
+name = "CC:LiftLink"
+filename = "ccliftlink-1.0.4-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2u32IDgn/versions/6rBGiCHM/ccliftlink-1.0.4-neoforge.jar"
+hash-format = "sha512"
+hash = "698b4caa5e2bb1fa4e2b88e0dca1e83fde0260c60585d191cbc074786c8e79251ce04fbd527267c7242c13f74b0f34210df2e96791bebca4a5725593c491c858"
+
+[update]
+[update.modrinth]
+mod-id = "2u32IDgn"
+version = "6rBGiCHM"

@@ -1,0 +1,13 @@
+name = "Structure Memory"
+filename = "structurememory-1.21.1-neoforge-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/BUE1I3ga/versions/qJk2AtZu/structurememory-1.21.1-neoforge-1.0.0.jar"
+hash-format = "sha512"
+hash = "9b808b5a1d70bfd0bef0366991eb06c68d2bccfb0760c545fcfc7c93752f16847ed5eb0ecf8fb1ddef5f409bddb137d2e20df3513ffa4cd4132ed323a8370cbe"
+
+[update]
+[update.modrinth]
+mod-id = "BUE1I3ga"
+version = "qJk2AtZu"

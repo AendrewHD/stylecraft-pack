@@ -1,0 +1,13 @@
+name = "Tiny Pipes"
+filename = "tinypipes-1.21.1-5.3.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/mUFODDIy/versions/CpZymobn/tinypipes-1.21.1-5.3.1.jar"
+hash-format = "sha512"
+hash = "8cfa47f69e0307c382e86b3a444335aa201849634d1dd00ba27f25fda41a1bf72c3266730e37bb4e5aaa83f58f3e8b83ff4c5f19bf535a54fe919b7a99548c5a"
+
+[update]
+[update.modrinth]
+mod-id = "mUFODDIy"
+version = "CpZymobn"

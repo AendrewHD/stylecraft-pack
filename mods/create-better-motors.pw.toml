@@ -1,0 +1,13 @@
+name = "Create: Better Motors"
+filename = "create_better_motors-4.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/PzouXFuY/versions/8m3TFCvr/create_better_motors-4.0.0.jar"
+hash-format = "sha512"
+hash = "1b2fd5948e989a82936b0ceeab23ff251bac08ef0349675e0e23a4d82c3f31d45517cb23faca2590952b5ed529040ca422fd1c3b305869c5cb7939fa69d892c0"
+
+[update]
+[update.modrinth]
+mod-id = "PzouXFuY"
+version = "8m3TFCvr"

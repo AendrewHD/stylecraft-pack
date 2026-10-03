@@ -1,0 +1,13 @@
+name = "Every Compat (Gems Realm)"
+filename = "gemsrealm-1.21-2.11.3-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/v259p1An/versions/XIE0asyq/gemsrealm-1.21-2.11.3-neoforge.jar"
+hash-format = "sha512"
+hash = "8d1416601738c2f60fcb48446527fdcb5db84c8189ddfd92be5b5469bd35389d300a2f85301d2e481fd055374570b261efc4b74eceb83b92d4b89870df834d95"
+
+[update]
+[update.modrinth]
+mod-id = "v259p1An"
+version = "XIE0asyq"
